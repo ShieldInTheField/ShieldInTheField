@@ -32,7 +32,7 @@ On the physics side, I’m expanding my understanding of:
 On the software side, I’m focused on:
 
 - **Expanding from bare-metal to kernel-level development**
-- Understanding how embedded software can serve beyond automation — in systems programming, OS-level tooling, or device abstraction
+- Understanding how embedded software can serve beyond automation, in systems programming, OS-level tooling, or device abstraction
 
 ---
 
