@@ -13,16 +13,16 @@ I enjoy meaningful, structured conversations around systems, and I’d be glad t
 
 ### 📚 Currently Learning
 
+On the software side, I’m focused on:
+
+- **Expanding from bare-metal to kernel-level development**
+- Understanding how embedded software can serve beyond automation, in systems programming, OS-level tooling, or device abstraction
+
 On the physics side, I’m expanding my understanding of:
 
 - **Differential Geometry** and its role in GR and classical gravity  
 - **Relativistic Quantum Mechanics** and the structure of physical theories    
 - Bridging theory with computation and real-world modeling
-
-On the software side, I’m focused on:
-
-- **Expanding from bare-metal to kernel-level development**
-- Understanding how embedded software can serve beyond automation, in systems programming, OS-level tooling, or device abstraction
 
 ---
 
