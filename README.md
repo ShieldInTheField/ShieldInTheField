@@ -51,7 +51,7 @@ Feel free to reach out via email:
 
 ### 🧰 Toolbox
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,bash,linux,git,vscode,vim,arduino,raspberrypi,arm" />
 </p>
 
