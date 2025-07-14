@@ -9,7 +9,7 @@ I’m an embedded systems engineer and a physicist who finds beauty both in the 
 **Learning is the default.**  
 I don’t just want things to work; I want to know why they work. What are the principles underneath? How does the system behave at the lowest level?
 
-I think in terms of **structure, constraints, and flow** — whether it’s firmware for real-time control, or mathematical frameworks in theoretical physics.  
+I think in terms of **structure, constraints, and flow**, whether it’s firmware for real-time control, or mathematical frameworks in theoretical physics.  
 I value **clarity**, **determinism**, and **well-structured design**, whether I'm writing code or solving tensor equations.
 
 ---
