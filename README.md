@@ -42,7 +42,7 @@ Feel free to reach out via email:
 ### 🧰 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,bash,linux,git,vscode,vim,arduino,raspberrypi,latex" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,bash,linux,git,vscode,vim,neovim,arduino,raspberrypi,latex" />
 </p>
 
 <!--
