@@ -20,8 +20,8 @@ On the software side, I’m focused on:
 
 On the physics side, I’m expanding my understanding of:
 
-- Differential Geometry and the mathematical structures underlying classical and relativistic field theories 
-- Relativistic Quantum Mechanics and the architecture of physical theories
+- **Differential Geometry** and the mathematical structures underlying **classical and relativistic field theories** 
+- **Relativistic Quantum Mechanics** and the architecture of physical theories
 - Connecting rigorous theory with computation, modeling, and simulation
 
 ---
